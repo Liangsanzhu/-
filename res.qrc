@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/ICON">
+        <file>ICON/choose.png</file>
+        <file>ICON/color.png</file>
+        <file>ICON/curve.png</file>
+        <file>ICON/cut.png</file>
+        <file>ICON/delete.png</file>
+        <file>ICON/ellipse.png</file>
+        <file>ICON/line.png</file>
+        <file>ICON/move.png</file>
+        <file>ICON/pen.png</file>
+        <file>ICON/polygon.png</file>
+        <file>ICON/reset.png</file>
+        <file>ICON/rotate.png</file>
+        <file>ICON/save.png</file>
+        <file>ICON/scale.png</file>
+        <file>ICON/bg1.jpg</file>
+        <file>ICON/bg2.jpg</file>
+    </qresource>
+</RCC>
